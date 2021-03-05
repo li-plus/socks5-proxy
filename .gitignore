@@ -1,2 +1,6 @@
 /build/
 /cmake-build-debug/
+
+# ide
+.vscode/
+.idea/
